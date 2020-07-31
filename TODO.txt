@@ -1,0 +1,9 @@
+Dicta:
+
+• Remplir les deux fonctions à la fin du client.lua
+
+Pablo:
+
+• Faire le menu de fabrication d'armes
+
+• Faire le blip que les policiers vont recevoir -> Pour la version  1.1
